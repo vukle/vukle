@@ -1,4 +1,4 @@
-### Your average idiot you see!
+### Your average idiot!
 
 <!--
 **vukle/vukle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
