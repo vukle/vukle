@@ -1,0 +1,57 @@
+{
+	"name": "Discord_Dark",
+	"description": "A Github Dark Theme for Discord Mobile",
+	"version": "1.16",
+	"authors": [{ "name": "someone#2725", "id": "178394162381455360" }],
+	"spec": 2,
+	"background": {
+		"blur": 0.5,
+		"url": "https://www.newegg.com/insider/wp-content/uploads/windows_xp_bliss-wide.jpg",
+		"alpha": 1.0
+	},
+	"semanticColors": {
+		"KEYBOARD": [ "rgba(0, 0, 0, 0.5)", "rgba(0, 0, 0, 0.5)" ],
+		"HEADER_PRIMARY": [ "#FFFFFF", "#FFFFFF" ],
+		"HEADER_SECONDARY": [ "#FFFFFF", "#FFFFFF" ],
+		"TEXT_NORMAL": [ "#FFFFFF", "#FFFFFF" ],
+		"TEXT_MUTED": [ "#FFFFFF", "#FFFFFF" ],
+		"INTERACTIVE_NORMAL": [ "#C8C8C8", "#C8C8C8" ],
+		"INTERACTIVE_HOVER": [ "#DCDDDE", "#DCDDDE" ],
+		"INTERACTIVE_ACTIVE": [ "#FFFFFF", "#FFFFFF" ],
+		"INTERACTIVE_MUTED": [ "#4F545C", "#4F545C" ],
+		"BACKGROUND_PRIMARY": [ "#1A1A1A", "#1A1A1A" ],
+		"BACKGROUND_SECONDARY": [ "#1A1A1A", "#1A1A1A" ],
+		"BACKGROUND_SECONDARY_ALT": [ "#1A1A1A", "#1A1A1A" ],
+		"BACKGROUND_TERTIARY": [ "#232323", "#232323" ],
+		"BACKGROUND_ACCENT": [ "#4F545C", "#4F545C" ],
+		"BACKGROUND_FLOATING": [ "#1A1A1A", "#1A1A1A" ],
+		"BACKGROUND_MOBILE_PRIMARY": [ "#1A1A1A", "#1A1A1A" ],
+		"BACKGROUND_MOBILE_SECONDARY": [ "#1A1A1A", "#1A1A1A" ],
+		"BACKGROUND_NESTED_FLOATING": [ "#1A1A1A", "#1A1A1A" ],
+		"BACKGROUND_MODIFIER_ACTIVE": [ "rgba(255, 255, 255, 0.4)", "rgba(255, 255, 255, 0.4)" ],
+		"BACKGROUND_MODIFIER_SELECTED": [ "rgba(255, 255, 255, 0.2)", "rgba(255, 255, 255, 0.2)" ],
+		"BACKGROUND_MODIFIER_ACCENT": [ "rgba(79, 84, 92, 0.48)", "rgba(79, 84, 92, 0.48)" ],
+		"SCROLLBAR_THIN_THUMB": [ "rgba(55, 55, 55, 0.5)", "rgba(55, 55, 55, 0.5)" ],
+		"SCROLLBAR_THIN_TRACK": [ "transparent", "transparent" ],
+		"SCROLLBAR_AUTO_THUMB": [ "rgba(55, 55, 55, 0.5)", "rgba(55, 55, 55, 0.5)" ],
+		"SCROLLBAR_AUTO_TRACK": [ "transparent", "transparent" ],
+		"CHANNELTEXTAREA_BACKGROUND": [ "transparent", "transparent" ],
+		"CHANNEL_ICON": [ "#8E9297", "#8E9297" ],
+		"CHANNELS_DEFAULT": [ "#c0c0c0", "#c0c0c0" ]
+	},
+	"rawColors": {
+		"PRIMARY_100": "#FFFFFF",
+		"PRIMARY_200": "#FFFFFF",
+		"PRIMARY_300": "#B6B6B6",
+		"PRIMARY_360": "#4F545C",
+		"PRIMARY_400": "#585858",
+		"PRIMARY_500": "#4F545C",
+		"PRIMARY_600": "rgba(0, 0, 0, 0.5)",
+		"PRIMARY_630": "rgba(0, 0, 0, 0.5)",
+		"PRIMARY_700": "#4F545C",
+		"PRIMARY_800": "#090909"
+	},
+	"unsafe_colors": {
+		"CHAT_GREY": "#1A1A1A"
+	}
+}
